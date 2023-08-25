@@ -1,0 +1,107 @@
+{
+  "seller": [
+    {
+      "email": "sam@gmail.com",
+      "firstName": "sam",
+      "password": "sam",
+      "id": 1
+    },
+    {
+      "name": "Anil kumar",
+      "email": "anil@gmail.com",
+      "password": "anil",
+      "id": 2
+    },
+    {
+      "first_Name": "aakash",
+      "password": "aakash",
+      "email": "aakashsharma.aec@gmail.com",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "anil123",
+      "id": 1
+    },
+    {
+      "first_Name": "priya",
+      "password": "priya",
+      "email": "priy",
+      "id": 2
+    },
+    {
+      "first_Name": "priya",
+      "password": "priya",
+      "email": "priya@gmail.com",
+      "id": 3
+    },
+    {
+      "first_Name": "krish",
+      "password": "krish",
+      "email": "krish@gmail.com",
+      "id": 4
+    },
+    {
+      "first_Name": "anil",
+      "password": "anil",
+      "email": "anil@gmail.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "paneer butter masala",
+      "price": "250",
+      "category": "veg",
+      "description": "paneer with extra cheese",
+      "image": "././././assets/img/panner butter masala.avif",
+      "id": 1
+    },
+    {
+      "name": "veg noodles",
+      "price": "150",
+      "category": "veg",
+      "description": "classic vegetable  noodles",
+      "image": "././././assets/img/1 c.avif",
+      "id": 2
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": "350",
+      "category": "non veg",
+      "description": "Hyderabadi delicious chicken Biryani",
+      "image": "././././assets/img/chicken biryani.avif",
+      "id": 3
+    },
+    {
+      "name": "tasty chicken samosa",
+      "price": "60",
+      "category": "non veg",
+      "description": "chicken samosa ",
+      "image": "././././assets/img/2.avif",
+      "id": 4
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "aakashsharma.aec@gmail.com",
+      "address": "abc , sxy.dhyjd",
+      "contact": "45442485565",
+      "totalPrice": 400,
+      "userId": 4,
+      "id": 2
+    }
+  ]
+}
